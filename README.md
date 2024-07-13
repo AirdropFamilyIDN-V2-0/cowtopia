@@ -3,6 +3,8 @@
 # Feature :
 - Complite Task
 - Auto Buy Cow
+- Daily Checkin
+- Multi Akun
 
 # Register bot
 - https://t.me/cowtopiabot/app?startapp=6953912161
