@@ -4,7 +4,9 @@
 - Complite Task
 - Auto Buy Cow
 - Daily Checkin
+- Claim offline profit
 - Multi Akun
+
 
 # Register bot
 - https://t.me/cowtopiabot/app?startapp=6953912161
